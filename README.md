@@ -19,3 +19,12 @@ Developed collaboratively as part of a university project.
 
 ## Inspiration
 Named after Sunut Forest in Sudan.
+
+## How to Use
+1. Download or clone the project files.
+2. Keep all folders and images in their original locations.
+3. Open `index.html` in any web browser.
+4. Browse products and website sections.
+
+## Feedback
+Feel free to share feedback, suggestions, or ideas for future improvements.
